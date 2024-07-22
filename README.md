@@ -1,4 +1,5 @@
 # SAP-SIOS-HighAvailability-ASCS-ERS-HANADB - FOR SCREENSHOT DOWNLOAD THE ATTACHED DOCUMENT
+https://github.com/mhkrish/SAP-SIOS-HighAvailability-ASCS-ERS-HANADB/blob/main/SIOS%20-LK%20HA%20of%20SAP%20ASCS%20ERS%20HA-HANA%20on%20Azure-07052024.docx
 SAP-SIOS-HighAvailability-ASCS-ERS-HANADB
 SIOS LifeKeeper for High Availability of SAP ASCS /ERS HA and HANA Database on Azure
 Introduction
